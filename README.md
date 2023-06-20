@@ -23,9 +23,13 @@
 ✅ Web Servers ( Nginx and Apache )<br>
 ✅ Deployment (Laravel Forge, Heroku, DigitalOcean, Amazon Web Services )<br>
 
-You Can reach me at   *** azupworkuser@gmail.com ***
+You Can reach me at   *** azupworkuser@gmail.com *** <br>
+<br>
 Looking forward to working with you 🙏
-
+<br>
+<br>
+<br>
+ || Symfony, CakePHP, CI, Laravel Vue developer, Laravel Vue3 SPA, Laravel Expert, Backend developer, Single Page Application, Vue Router, Laravel React.js, Laravel APIs, Laravel NOVA, E-commerce Developer, Custom E-commerce Platform Development, Database Design, Database Schema Developer, Tailwind CSS, WordPress Customization, WordPress Theme Development ||
 <!--
 **azupworkuser/azupworkuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
