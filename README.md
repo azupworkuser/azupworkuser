@@ -1,46 +1,21 @@
-### Namaste 🙏 My Name is - Ashish
-#####  I love ❤️‍🔥  Coding |  Solving Puzzle | Fixing Things 
+# 💫 About Me:
+I am an ⭐⭐⭐⭐⭐ --- Individual Developer / Top Rated by Upwork ---⭐⭐⭐⭐⭐<br><br>🕛 More than 10,000 + hours experience on Upwork<br>😁 A full list of 100 % Happy & Satisfied clients<br>🖥️ 10,000 hours working with Overseas Clients<br>🙋‍♂️ 8 + Years of MVC and HMVC Framework Experience<br>🤗 A Team Player with great Dedication to my Work
 
-***I am an***
-⭐⭐⭐⭐⭐ --- Individual Developer / Top Rated by Upwork ---⭐⭐⭐⭐⭐
-- 🕛 More than 10,000 + hours experience on Upwork
-- 😁 A full list of 100 % Happy & Satisfied clients
-- 🖥️ 10,000 hours working with Overseas Clients
-- 🙋‍♂️ 8 + Years of MVC and HMVC Framework Experience
-- 🤗 A Team Player with great Dedication to my Work
 
-  
- ### A complete list here ###
+# 💻 Tech Stack:
+!PHP !Bootstrap !HTML5 !TypeScript !AWS !Oracle !GithubPages !Angular !Angular.js !Code-Igniter !Laravel !React !WordPress !Apache !MongoDB !MySQL !Redis !SQLite !Docker !Jira !Kubernetes !Postman !Swagger !Trello
+# 📊 GitHub Stats:
+<!--![](https://github-readme-stats.vercel.app/api?username=azupworkuser&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=azupworkuser&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azupworkuser&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- 
-✅ Full Stack Development, Symfony, CakePHP, CI, Laravel 4.x up to 9.x, NOVA, LiveWire <br>
-✅ Back-end Development, REST APIs development, 3rd party APIs Integration.<br>
-✅ Angular, React JS, Vue JS <br>
-✅ WordPress, Wix, Squarespace, Shopify, Weebly <br>
-✅ Builders (Elementor, Visual Composer, Beaver, Divi ) <br>
-✅ Custom Theme Development & Customization, Plugin Customization & Development<br>
-✅ Git (Github, Bitbucket, Gitlab)<br>
-✅ Web Servers ( Nginx and Apache )<br>
-✅ Deployment (Laravel Forge, Heroku, DigitalOcean, Amazon Web Services )<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=azupworkuser&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-You Can reach me at   *** azupworkuser@gmail.com *** <br>
-<br>
-Looking forward to working with you 🙏
-<br>
-<br>
-<br>
- || Symfony, CakePHP, CI, Laravel Vue developer, Laravel Vue3 SPA, Laravel Expert, Backend developer, Single Page Application, Vue Router, Laravel React.js, Laravel APIs, Laravel NOVA, E-commerce Developer, Custom E-commerce Platform Development, Database Design, Database Schema Developer, Tailwind CSS, WordPress Customization, WordPress Theme Development ||
-<!--
-**azupworkuser/azupworkuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=azupworkuser&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Here are some ideas to get you started:
+---
+![](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
